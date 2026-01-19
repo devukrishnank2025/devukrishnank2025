@@ -1,4 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/90049773/203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a.gif)](https://github.com/)
+<div style="background-color: black;">
+
+
+  [![MasterHead](https://user-images.githubusercontent.com/90049773/203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a.gif)](https://github.com/)
 
 
 
@@ -34,3 +37,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devukrishnank2025&" alt="devukrishnank2025" /></p>
 
+
+</div>
