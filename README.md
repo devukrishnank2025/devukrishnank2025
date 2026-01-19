@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Mr_DevuKrishnan</h1>
 <h3 align="center">Curious MERN Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif](https://engineeringsquare.us/wp-content/uploads/2023/01/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <a href="https://twitter.com/devukrishnank2025" target="blank"><img src="https://img.shields.io/twitter/follow/devukrishnank2025?logo=twitter&style=for-the-badge" alt="devukrishnank2025" /></a> </p>
 
