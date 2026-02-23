@@ -8,11 +8,11 @@
 
 <img src="divider.svg" width="100%"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 <h2 align="center" style="color:#00f2ff;">⚡ About Me</h2>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   I'm a <strong>BCA student</strong> and a passionate <strong>MERN Stack Web Developer</strong> from India.<br/>
@@ -21,7 +21,7 @@
   My long-term goal is to become an excellent software engineer and create impactful AI-driven solutions.
 </p>
 
-<br/><br/><br/>
+<br/><br/>
 
 <table align="center">
   <tr>
@@ -50,15 +50,15 @@
   </tr>
 </table>
 
-<br/><br/><br/>
+<br/><br/>
 
 ---
 
-<br/><br/><br/>
+<br/><br/>
 
 <h2 align="center" style="color:#00f2ff;">🚀 My Services</h2>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -68,15 +68,15 @@
 
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 ---
 
-<br/><br/><br/>
+<br/><br/>
 
 <h2 align="center" style="color:#00f2ff;">🛠️ My Expertise</h2>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="45"/></a>&nbsp;
@@ -95,15 +95,15 @@
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" height="45"/></a>
 </p>
 
-<br/><br/><br/>
+<br/><br/>
 
 ---
 
-<br/><br/><br/>
+<br/><br/>
 
 <h2 align="center" style="color:#00f2ff;">📊 GitHub Stats</h2>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devukrishnank2025&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=00f2ff&text_color=e0e0e0&icon_color=4d4dff" height="165"/>
@@ -111,21 +111,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devukrishnank2025&layout=compact&theme=transparent&hide_border=true&title_color=00f2ff&text_color=e0e0e0" height="165"/>
 </p>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devukrishnank2025&theme=transparent&hide_border=true&currStreakLabel=00f2ff&sideNums=e0e0e0&sideLabels=e0e0e0&fire=4d4dff&ring=4d4dff" width="60%"/>
 </p>
 
-<br/><br/><br/>
+<br/><br/>
 
 ---
 
-<br/><br/><br/>
+<br/><br/>
 
 <h2 align="center" style="color:#00f2ff;">💼 My Work</h2>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -136,31 +136,15 @@
 
 </div>
 
-<br/><br/><br/>
-
----
-
-<br/><br/><br/>
-
-<h2 align="center" style="color:#00f2ff;">🗓️ Experience</h2>
-
 <br/><br/>
 
-<p align="center">
-  📌 <strong>2025 – Present</strong> — Building personal and academic web projects using MERN Stack<br/>
-  📌 <strong>2024 – 2025</strong> — Practiced responsive UI design and backend integration<br/>
-  📌 <strong>Learning Phase</strong> — Improving problem-solving and coding consistency
-</p>
-
-<br/><br/><br/>
-
 ---
 
-<br/><br/><br/>
+<br/><br/>
 
 <h2 align="center" style="color:#00f2ff;">🌐 Connect With Me</h2>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <a href="https://github.com/devukrishnank2025"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00f2ff"/></a>&nbsp;
@@ -182,7 +166,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:4d4dff&height=120&section=footer" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <em>© Devukrishnan — Made with ❤️</em>
