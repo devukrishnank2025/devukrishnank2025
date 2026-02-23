@@ -8,10 +8,7 @@
 <!-- CODE SYMBOL DIVIDER -->
 <img src="divider.svg" width="100%"/>
 
----
 
-
----
 
 <h2 align="center" style="color:#00f2ff;">⚡ About Me</h2>
 
