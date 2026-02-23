@@ -1,41 +1,144 @@
-<div style="background-color: white;">
+<div align="center" style="background:#0a0a0a;">
 
-
-  [![MasterHead](https://user-images.githubusercontent.com/90049773/203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a.gif)](https://github.com/)
-
-
-
-<h1 align="center">Hi 👋, I'm Mr_DevuKrishnan</h1>
-<h3 align="center">Curious MERN Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> <a href="https://twitter.com/devukrishnank2025" target="blank"><img src="https://img.shields.io/twitter/follow/devukrishnank2025?logo=twitter&style=for-the-badge" alt="devukrishnank2025" /></a> </p>
-
-- 🔭 I'm currently working on **ECOMMERCE PROJECT**
-
-- 🌱 I'm currently learning **React Native**
-
-- 💬 Ask me about **MERN | JS |**
-
-- 📫 How to reach me **devukrishnank2025@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/devukrishnank2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="devukrishnank2025" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Mr DevuKrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mr DevuKrishnan" height="30" width="40" /></a>
-<a href="https://fb.com/mr_devukrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr_devukrishnan" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_devukrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_devukrishnan" height="30" width="40" /></a>
-<a href="https://twitter.com/devukrishnank2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devukrishnank2025" height="30" width="40" /></a>
-<a href="https://youtube.com/devukrishnank2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devukrishnank2025" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devukrishnank2025&show_icons=true&locale=en" alt="devukrishnank2025" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devukrishnank2025&" alt="devukrishnank2025" /></p>
-
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d4dff,100:00f2ff&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Devukrishnan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
+
+---
+
+<!-- ABOUT ME -->
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+  I'm a <strong>BCA student</strong> and a passionate <strong>MERN Stack Web Developer</strong> from India.<br/>
+  I enjoy building real-world applications, learning modern technologies,<br/>
+  and exploring <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.<br/>
+  My long-term goal is to become an excellent software engineer and create impactful AI-driven solutions.
+</p>
+
+<table align="center">
+  <tr>
+    <td>🔭 Currently working on</td>
+    <td><strong>ECOMMERCE PROJECT</strong></td>
+  </tr>
+  <tr>
+    <td>🌱 Currently learning</td>
+    <td><strong>React Native</strong></td>
+  </tr>
+  <tr>
+    <td>🎓 Education</td>
+    <td><strong>BCA – Computer Science</strong></td>
+  </tr>
+  <tr>
+    <td>💬 Ask me about</td>
+    <td><strong>MERN Stack | JavaScript | Web Dev</strong></td>
+  </tr>
+  <tr>
+    <td>📫 Reach me at</td>
+    <td><strong>devukrishnank2025@gmail.com</strong></td>
+  </tr>
+  <tr>
+    <td>🌍 Based in</td>
+    <td><strong>India</strong></td>
+  </tr>
+</table>
+
+---
+
+<!-- SERVICES -->
+<h2 align="center">🚀 My Services</h2>
+
+<div align="center">
+
+| 🌐 Web Development | 🎨 Frontend UI | ⚙️ Backend & APIs |
+|:---:|:---:|:---:|
+| Responsive, fast & scalable websites using modern web technologies with clean UI and solid backend logic. | User-friendly interfaces with focus on usability, performance, and modern design principles. | REST APIs, database management, and server-side logic using Node.js and MongoDB. |
+
+</div>
+
+---
+
+<!-- SKILLS -->
+<h2 align="center">🛠️ My Expertise</h2>
+
+<p align="center">
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="45"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="45"/></a>&nbsp;
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="45"/></a>&nbsp;
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="45"/></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45"/></a>&nbsp;
+  <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" height="45"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="45"/></a>&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/></a>&nbsp;
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="45"/></a>&nbsp;
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="45"/></a>&nbsp;
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45"/></a>&nbsp;
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="45"/></a>&nbsp;
+  <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" height="45"/></a>
+</p>
+
+---
+
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devukrishnank2025&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=00f2ff&text_color=e0e0e0&icon_color=4d4dff" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devukrishnank2025&layout=compact&theme=transparent&hide_border=true&title_color=00f2ff&text_color=e0e0e0" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devukrishnank2025&theme=transparent&hide_border=true&currStreakLabel=00f2ff&sideNums=e0e0e0&sideLabels=e0e0e0&fire=4d4dff&ring=4d4dff" width="60%"/>
+</p>
+
+---
+
+<!-- MY WORK -->
+<h2 align="center">💼 My Work</h2>
+
+<div align="center">
+
+| 🌐 Web Applications | 📚 Learning Projects | 🤖 Future AI Projects |
+|:---:|:---:|:---:|
+| Full-stack web apps with authentication, database integration, and clean UI. | Projects built while learning MERN stack, APIs, and system design basics. | Planned projects combining AI, NLP, and computer vision concepts. |
+| `React` `Node` `MongoDB` | `MERN` `API` `UI/UX` | `Python` `TensorFlow` `NLP` |
+
+</div>
+
+---
+
+<!-- EXPERIENCE TIMELINE -->
+<h2 align="center">🗓️ Experience</h2>
+
+<p align="center">
+  📌 <strong>2025 – Present</strong> — Building personal and academic web projects using MERN Stack<br/>
+  📌 <strong>2024 – 2025</strong> — Practiced responsive UI design and backend integration<br/>
+  📌 <strong>Learning Phase</strong> — Improving problem-solving and coding consistency
+</p>
+
+---
+
+<!-- CONNECT -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/devukrishnank2025"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00f2ff"/></a>&nbsp;
+  <a href="https://linkedin.com/in/mrdevukrishnank2025"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00f2ff"/></a>&nbsp;
+  <a href="https://instagram.com/mr_devukrishnan"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=00f2ff"/></a>&nbsp;
+  <a href="https://twitter.com/devukrishnank2025"><img src="https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=twitter&logoColor=00f2ff"/></a>&nbsp;
+  <a href="https://fb.com/mr_devukrishnan"><img src="https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=00f2ff"/></a>&nbsp;
+  <a href="https://wa.me/917736816334"><img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=00f2ff"/></a>&nbsp;
+  <a href="mailto:devukrishnank2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00f2ff"/></a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:4d4dff&height=120&section=footer" width="100%"/>
+
+<p align="center">
+  <em>© Devukrishnan — Made with ❤️</em>
+</p>
