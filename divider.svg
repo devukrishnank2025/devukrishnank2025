@@ -1,0 +1,40 @@
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#4d4dff;stop-opacity:0"/>
+      <stop offset="25%"  style="stop-color:#4d4dff;stop-opacity:1"/>
+      <stop offset="50%"  style="stop-color:#00f2ff;stop-opacity:1"/>
+      <stop offset="75%"  style="stop-color:#4d4dff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#4d4dff;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glowD">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .sym { font-family: 'Courier New', monospace; font-weight: bold; filter: url(#glowD); }
+      .s1 { animation: float1 3s ease-in-out infinite; }
+      .s2 { animation: float2 3.4s ease-in-out infinite; }
+      .s3 { animation: float3 2.8s ease-in-out infinite; }
+      .s4 { animation: float1 3.2s ease-in-out infinite; }
+      .s5 { animation: float2 3.6s ease-in-out infinite; }
+      .s6 { animation: float3 3.0s ease-in-out infinite; }
+      .s7 { animation: float1 2.6s ease-in-out infinite; }
+      @keyframes float1 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
+      @keyframes float2 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-8px)} }
+      @keyframes float3 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-4px)} }
+    </style>
+  </defs>
+
+  <!-- Center line -->
+  <line x1="0" y1="30" x2="800" y2="30" stroke="url(#lineGrad)" stroke-width="1.5"/>
+
+  <!-- Floating symbols -->
+  <text class="sym s1" x="80"  y="36" font-size="18" fill="#00f2ff" text-anchor="middle">&lt;/&gt;</text>
+  <text class="sym s2" x="180" y="36" font-size="16" fill="#4d4dff" text-anchor="middle">{ }</text>
+  <text class="sym s3" x="280" y="36" font-size="16" fill="#00f2ff" text-anchor="middle">( )</text>
+  <text class="sym s4" x="400" y="38" font-size="22" fill="#00f2ff" text-anchor="middle">⚡</text>
+  <text class="sym s5" x="520" y="36" font-size="16" fill="#4d4dff" text-anchor="middle">[ ]</text>
+  <text class="sym s6" x="620" y="36" font-size="16" fill="#00f2ff" text-anchor="middle">=&gt;</text>
+  <text class="sym s7" x="720" y="36" font-size="18" fill="#4d4dff" text-anchor="middle">&lt;/&gt;</text>
+</svg>

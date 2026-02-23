@@ -1,0 +1,90 @@
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a0a14;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="titleBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .code-line { font-family: 'Courier New', monospace; font-size: 13px; }
+      .prompt    { fill: #00f2ff; filter: url(#glow); }
+      .cmd       { fill: #e0e0e0; }
+      .string    { fill: #00f2ff; }
+      .keyword   { fill: #4d4dff; font-weight: bold; }
+      .comment   { fill: #555577; }
+      .func      { fill: #a78bfa; }
+      .num       { fill: #f9a825; }
+      .cursor    { fill: #00f2ff; opacity:1; }
+
+      .line1 { animation: fadeIn 0.4s ease 0.3s both; }
+      .line2 { animation: fadeIn 0.4s ease 1.0s both; }
+      .line3 { animation: fadeIn 0.4s ease 1.6s both; }
+      .line4 { animation: fadeIn 0.4s ease 2.2s both; }
+      .line5 { animation: fadeIn 0.4s ease 2.8s both; }
+      .line6 { animation: fadeIn 0.4s ease 3.4s both; }
+      .line7 { animation: fadeIn 0.4s ease 4.0s both; }
+
+      .cursor { animation: blink 1s step-end infinite; }
+
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateX(-6px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Terminal window bg -->
+  <rect width="700" height="220" rx="12" ry="12" fill="url(#bgGrad)" stroke="#1e1e3a" stroke-width="1.5"/>
+
+  <!-- Title bar -->
+  <rect width="700" height="36" rx="12" ry="12" fill="url(#titleBar)"/>
+  <rect y="24" width="700" height="12" fill="url(#titleBar)"/>
+
+  <!-- Traffic lights -->
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+
+  <!-- Title -->
+  <text x="350" y="23" text-anchor="middle" font-family="monospace" font-size="12" fill="#666699">devukrishnan — mern-stack ~ bash</text>
+
+  <!-- Code lines -->
+  <g class="code-line line1">
+    <text x="24" y="62"><tspan class="prompt">❯ </tspan><tspan class="cmd">node </tspan><tspan class="string">devukrishnan.js</tspan></text>
+  </g>
+  <g class="code-line line2">
+    <text x="24" y="84"><tspan class="comment">// 🚀 Initializing developer profile...</tspan></text>
+  </g>
+  <g class="code-line line3">
+    <text x="24" y="106"><tspan class="keyword">const </tspan><tspan class="cmd">dev </tspan><tspan class="keyword">= </tspan><tspan class="func">createDeveloper</tspan><tspan class="cmd">({</tspan></text>
+  </g>
+  <g class="code-line line4">
+    <text x="24" y="128"><tspan class="cmd">  name: </tspan><tspan class="string">"Devukrishnan"</tspan><tspan class="cmd">,  stack: </tspan><tspan class="string">["MongoDB","Express","React","Node"]</tspan><tspan class="cmd">,</tspan></text>
+  </g>
+  <g class="code-line line5">
+    <text x="24" y="150"><tspan class="cmd">  passion: </tspan><tspan class="string">"Building AI-powered apps"</tspan><tspan class="cmd">,  level: </tspan><tspan class="num">∞</tspan><tspan class="cmd">,</tspan></text>
+  </g>
+  <g class="code-line line6">
+    <text x="24" y="172"><tspan class="cmd">});</tspan></text>
+  </g>
+  <g class="code-line line7">
+    <text x="24" y="194"><tspan class="prompt">❯ </tspan><tspan class="func">dev</tspan><tspan class="cmd">.</tspan><tspan class="func">launchCareer</tspan><tspan class="cmd">();  </tspan><tspan class="comment">// output: </tspan><tspan class="string">"Ready to build the future 🌌"</tspan></text>
+  </g>
+
+  <!-- Blinking cursor -->
+  <rect class="cursor" x="24" y="203" width="8" height="13" rx="1"/>
+</svg>
