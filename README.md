@@ -10,7 +10,6 @@
 
 ---
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;BCA+Student+%7C+AI+Enthusiast+%F0%9F%A4%96;Building+Real-World+Apps+%F0%9F%8C%90;Learning+React+Native+%F0%9F%93%B1;Open+to+Collaboration+%F0%9F%A4%9D" alt="Typing SVG"/></h2>
 
 ---
 
@@ -52,7 +51,7 @@
   </tr>
 </table>
 
-<img src="divider.svg" width="100%"/>
+
 
 ---
 
@@ -66,7 +65,7 @@
 
 </div>
 
-<img src="divider.svg" width="100%"/>
+
 
 ---
 
@@ -89,7 +88,7 @@
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" height="45"/></a>
 </p>
 
-<img src="divider.svg" width="100%"/>
+
 
 ---
 
@@ -105,7 +104,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devukrishnank2025&theme=transparent&hide_border=true&currStreakLabel=00f2ff&sideNums=e0e0e0&sideLabels=e0e0e0&fire=4d4dff&ring=4d4dff" width="60%"/>
 </p>
 
-<img src="divider.svg" width="100%"/>
+
 
 ---
 
@@ -120,7 +119,7 @@
 
 </div>
 
-<img src="divider.svg" width="100%"/>
+
 
 ---
 
@@ -132,7 +131,7 @@
   📌 <strong>Learning Phase</strong> — Improving problem-solving and coding consistency
 </p>
 
-<img src="divider.svg" width="100%"/>
+
 
 ---
 
