@@ -1,14 +1,29 @@
-<div align="center" style="background:#0a0a0a;">
+<div align="center">
 
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d4dff,100:00f2ff&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Devukrishnan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;BCA+Student+%7C+AI+Enthusiast+%F0%9F%A4%96;Building+Real-World+Apps+%F0%9F%8C%90;Learning+React+Native+%F0%9F%93%B1;Open+to+Collaboration+%F0%9F%A4%9D" alt="Typing SVG"/>
+
 </div>
+
+<!-- CODE SYMBOL DIVIDER -->
+<img src="divider.svg" width="100%"/>
 
 ---
 
-<!-- ABOUT ME -->
-<h2 align="center">⚡ About Me</h2>
+## ⚡ About Me
+
+<div align="center">
+
+<!-- Terminal animation + Skill bars side by side -->
+<img src="terminal.svg" width="55%" align="left"/>
+<img src="skills-bar.svg" width="43%" align="right"/>
+
+</div>
+
+<br clear="both"/>
 
 <p align="center">
   I'm a <strong>BCA student</strong> and a passionate <strong>MERN Stack Web Developer</strong> from India.<br/>
@@ -44,10 +59,12 @@
   </tr>
 </table>
 
+<!-- CODE SYMBOL DIVIDER -->
+<img src="divider.svg" width="100%"/>
+
 ---
 
-<!-- SERVICES -->
-<h2 align="center">🚀 My Services</h2>
+## 🚀 My Services
 
 <div align="center">
 
@@ -57,10 +74,12 @@
 
 </div>
 
+<!-- CODE SYMBOL DIVIDER -->
+<img src="divider.svg" width="100%"/>
+
 ---
 
-<!-- SKILLS -->
-<h2 align="center">🛠️ My Expertise</h2>
+## 🛠️ My Expertise
 
 <p align="center">
   <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="45"/></a>&nbsp;
@@ -79,10 +98,12 @@
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" height="45"/></a>
 </p>
 
+<!-- CODE SYMBOL DIVIDER -->
+<img src="divider.svg" width="100%"/>
+
 ---
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devukrishnank2025&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=00f2ff&text_color=e0e0e0&icon_color=4d4dff" height="165"/>
@@ -94,10 +115,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devukrishnank2025&theme=transparent&hide_border=true&currStreakLabel=00f2ff&sideNums=e0e0e0&sideLabels=e0e0e0&fire=4d4dff&ring=4d4dff" width="60%"/>
 </p>
 
+<!-- CODE SYMBOL DIVIDER -->
+<img src="divider.svg" width="100%"/>
+
 ---
 
-<!-- MY WORK -->
-<h2 align="center">💼 My Work</h2>
+## 💼 My Work
 
 <div align="center">
 
@@ -108,10 +131,12 @@
 
 </div>
 
+<!-- CODE SYMBOL DIVIDER -->
+<img src="divider.svg" width="100%"/>
+
 ---
 
-<!-- EXPERIENCE TIMELINE -->
-<h2 align="center">🗓️ Experience</h2>
+## 🗓️ Experience
 
 <p align="center">
   📌 <strong>2025 – Present</strong> — Building personal and academic web projects using MERN Stack<br/>
@@ -119,10 +144,12 @@
   📌 <strong>Learning Phase</strong> — Improving problem-solving and coding consistency
 </p>
 
+<!-- CODE SYMBOL DIVIDER -->
+<img src="divider.svg" width="100%"/>
+
 ---
 
-<!-- CONNECT -->
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/devukrishnank2025"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00f2ff"/></a>&nbsp;
@@ -134,9 +161,7 @@
   <a href="mailto:devukrishnank2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00f2ff"/></a>
 </p>
 
----
-
-<!-- FOOTER -->
+<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:4d4dff&height=120&section=footer" width="100%"/>
 
 <p align="center">
