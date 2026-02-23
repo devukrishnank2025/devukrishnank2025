@@ -13,13 +13,7 @@
 
 ## ⚡ About Me
 
-<div align="center">
 
-<!-- Terminal animation + Skill bars side by side -->
-<img src="terminal.svg" width="55%" align="center"/>
-<img src="skills-bar.svg" width="43%" align="center"/>
-
-</div>
 
 <br clear="both"/>
 
@@ -29,6 +23,12 @@
   and exploring <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.<br/>
   My long-term goal is to become an excellent software engineer and create impactful AI-driven solutions.
 </p>
+<div align="center">
+
+<!-- Terminal animation + Skill bars side by side -->
+<img src="terminal.svg" width="55%" align="center"/>
+
+</div>
 
 <table align="center">
   <tr>
@@ -155,6 +155,15 @@
   <a href="https://wa.me/917736816334"><img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=00f2ff"/></a>&nbsp;
   <a href="mailto:devukrishnank2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00f2ff"/></a>
 </p>
+
+
+
+<div align="center">
+
+<!-- Terminal animation + Skill bars side by side -->
+<img src="skills-bar.svg" width="43%" align="center"/>
+
+</div>
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:4d4dff&height=120&section=footer" width="100%"/>
