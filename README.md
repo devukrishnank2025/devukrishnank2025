@@ -1,14 +1,10 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d4dff,100:00f2ff&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Devukrishnan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
-<!-- CODE SYMBOL DIVIDER -->
 <img src="divider.svg" width="100%"/>
-
-
 
 <h2 align="center" style="color:#00f2ff;">⚡ About Me</h2>
 
@@ -48,8 +44,6 @@
   </tr>
 </table>
 
-
-
 ---
 
 <h2 align="center" style="color:#00f2ff;">🚀 My Services</h2>
@@ -61,8 +55,6 @@
 | Responsive, fast & scalable websites using modern web technologies with clean UI and solid backend logic. | User-friendly interfaces with focus on usability, performance, and modern design principles. | REST APIs, database management, and server-side logic using Node.js and MongoDB. |
 
 </div>
-
-
 
 ---
 
@@ -85,8 +77,6 @@
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" height="45"/></a>
 </p>
 
-
-
 ---
 
 <h2 align="center" style="color:#00f2ff;">📊 GitHub Stats</h2>
@@ -101,8 +91,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devukrishnank2025&theme=transparent&hide_border=true&currStreakLabel=00f2ff&sideNums=e0e0e0&sideLabels=e0e0e0&fire=4d4dff&ring=4d4dff" width="60%"/>
 </p>
 
-
-
 ---
 
 <h2 align="center" style="color:#00f2ff;">💼 My Work</h2>
@@ -116,8 +104,6 @@
 
 </div>
 
-
-
 ---
 
 <h2 align="center" style="color:#00f2ff;">🗓️ Experience</h2>
@@ -127,8 +113,6 @@
   📌 <strong>2024 – 2025</strong> — Practiced responsive UI design and backend integration<br/>
   📌 <strong>Learning Phase</strong> — Improving problem-solving and coding consistency
 </p>
-
-
 
 ---
 
@@ -148,7 +132,6 @@
   <img src="terminal.svg" width="70%"/>
 </div>
 
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:4d4dff&height=120&section=footer" width="100%"/>
 
 <p align="center">
