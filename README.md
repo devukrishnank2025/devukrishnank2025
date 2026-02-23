@@ -4,7 +4,6 @@
 
 </div>
 
-<br/><br/>
 
 <img src="divider.svg" width="100%"/>
 
