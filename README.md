@@ -23,12 +23,7 @@
   and exploring <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.<br/>
   My long-term goal is to become an excellent software engineer and create impactful AI-driven solutions.
 </p>
-<div align="center">
 
-<!-- Terminal animation + Skill bars side by side -->
-<img src="terminal.svg" width="55%" align="center"/>
-
-</div>
 
 <table align="center">
   <tr>
@@ -71,8 +66,7 @@
 
 </div>
 
-<!-- CODE SYMBOL DIVIDER -->
-<img src="divider.svg" width="100%"/>
+
 
 ---
 
@@ -95,8 +89,7 @@
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" height="45"/></a>
 </p>
 
-<!-- CODE SYMBOL DIVIDER -->
-<img src="divider.svg" width="100%"/>
+
 
 ---
 
@@ -127,8 +120,7 @@
 
 </div>
 
-<!-- CODE SYMBOL DIVIDER -->
-<img src="divider.svg" width="100%"/>
+
 
 ---
 
@@ -157,11 +149,10 @@
 </p>
 
 
-
 <div align="center">
 
 <!-- Terminal animation + Skill bars side by side -->
-<img src="skills-bar.svg" width="43%" align="center"/>
+<img src="terminal.svg" width="55%" align="center"/>
 
 </div>
 
