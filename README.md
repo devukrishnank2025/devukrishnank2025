@@ -3,8 +3,6 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d4dff,100:00f2ff&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Devukrishnan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;BCA+Student+%7C+AI+Enthusiast+%F0%9F%A4%96;Building+Real-World+Apps+%F0%9F%8C%90;Learning+React+Native+%F0%9F%93%B1;Open+to+Collaboration+%F0%9F%A4%9D" alt="Typing SVG"/>
 
 </div>
 
@@ -18,8 +16,8 @@
 <div align="center">
 
 <!-- Terminal animation + Skill bars side by side -->
-<img src="terminal.svg" width="55%" align="left"/>
-<img src="skills-bar.svg" width="43%" align="right"/>
+<img src="terminal.svg" width="55%" align="center"/>
+<img src="skills-bar.svg" width="43%" align="center"/>
 
 </div>
 
