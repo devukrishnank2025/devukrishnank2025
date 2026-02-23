@@ -59,8 +59,7 @@
   </tr>
 </table>
 
-<!-- CODE SYMBOL DIVIDER -->
-<img src="divider.svg" width="100%"/>
+
 
 ---
 
@@ -115,8 +114,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devukrishnank2025&theme=transparent&hide_border=true&currStreakLabel=00f2ff&sideNums=e0e0e0&sideLabels=e0e0e0&fire=4d4dff&ring=4d4dff" width="60%"/>
 </p>
 
-<!-- CODE SYMBOL DIVIDER -->
-<img src="divider.svg" width="100%"/>
+
 
 ---
 
@@ -144,8 +142,7 @@
   📌 <strong>Learning Phase</strong> — Improving problem-solving and coding consistency
 </p>
 
-<!-- CODE SYMBOL DIVIDER -->
-<img src="divider.svg" width="100%"/>
+
 
 ---
 
